@@ -1,0 +1,11 @@
+cdsapi==0.7.0
+numpy==1.24.4
+pandas==2.0.2
+python_dateutil==2.8.2
+timm==0.9.10
+torch==2.1.0+cu118
+torch_vision==0.1.6.dev0
+torchvision==0.16.0+cu118
+tqdm==4.66.1
+xarray==2024.5.0
+zarr==2.18.2
